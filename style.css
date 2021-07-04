@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: bisque;
+  background: #0a0220;
+  height: 100vh;
+  width: 100vw;
+}
